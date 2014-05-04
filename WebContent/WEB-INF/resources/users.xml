@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+	<role>user</role>
+	<employees>
+		<employee lastName="Ivanov" firstName="Ivan" email="ivanov@mail.ru" password="11111"/>
+		<employee lastName="Petrov" firstName="Petr" email="petrov@mail.ru" password="22222"/>
+	</employees>
+</user>
+<user>
+	<role>administrator</role>
+	<employees>
+		<employee lastName="Sidorov" firstName="Sergey" email="sidorov@mail.ru" password="123123"/>
+	</employees>
+</user>
+</users>

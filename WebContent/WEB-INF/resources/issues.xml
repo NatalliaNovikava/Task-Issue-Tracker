@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues>
+	<issue id="1"  priority="Critical"   assignee="ivanov@mail.ru"  type="Cosmetic"    status="New"         summary="Error"/> 
+	<issue id="2"  priority="Major "     assignee="ivanov@mail.ru"  type="Bug"         status="Assigned"    summary="Error"/> 
+	<issue id="3"  priority="Important"  assignee="petrov@mail.ru"  type="Bug"         status="Assigned"    summary="Error"/> 
+	<issue id="4"  priority="Minor "     assignee="petrov@mail.ru"  type="Bug"         status="In Progress" summary="Error"/> 
+	<issue id="5"  priority="Critical"   assignee="petrov@mail.ru"  type="Cosmetic"    status="In Progress" summary="Error"/> 
+	<issue id="6"  priority="Major "     assignee="petrov@mail.ru"  type="Bug"         status="New"         summary="Error"/> 
+	<issue id="7"  priority="Important"  assignee="sidorov@mail.ru" type="Bug"         status="In Progress" summary="Error"/> 
+	<issue id="8"  priority="Minor "     assignee="sidorov@mail.ru" type="Performance" status="New"         summary="Error"/> 
+	<issue id="9"  priority="Major "     assignee="sidorov@mail.ru" type="Performance" status="New"         summary="Error"/> 
+	<issue id="10"  priority="Important" assignee="sidorov@mail.ru" type="Feature"     status="In Progress" summary="Error"/> 
+	<issue id="11"  priority="Minor "    assignee="sidorov@mail.ru" type="Bug"         status="New"         summary="Error"/> 
+	<issue id="12"  priority="Major "    assignee="ivanov@mail.ru"  type="Bug"         status="New"         summary="Error"/>
+	<issue id="13"  priority="Important" assignee="ivanov@mail.ru"  type="Feature"     status="In Progress" summary="Error"/> 
+	<issue id="14"  priority="Minor "    assignee="ivanov@mail.ru"  type="Bug"         status="New"         summary="Error"/> 
+	<issue id="15"  priority="Important" assignee="ivanov@mail.ru"  type="Bug"     	   status="In Progress" summary="Error"/> 
+	<issue id="16"  priority="Important" assignee="sidorov@mail.ru" type="Feature"     status="In Progress" summary="Error"/> 
+	<issue id="17"  priority="Important" assignee="ivanov@mail.ru"  type="Bug"         status="In Progress" summary="Error"/> 
+	<issue id="18"  priority="Important" assignee="petrov@mail.ru"  type="Bug"         status="In Progress" summary="Error"/> 
+	<issue id="19"  priority="Important" assignee="petrov@mail.ru"  type="Bug"         status="In Progress" summary="Error"/> 
+	<issue id="20"  priority="Important" assignee="sidorov@mail.ru" type="Bug"         status="In Progress" summary="Error"/> 
+</issues> 
